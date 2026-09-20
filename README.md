@@ -50,7 +50,7 @@ SPIKE 앱의 블록 코딩으로 센서 값에 따라 주행을 제어합니다.
 | ![](gdevelop/run-and-bow/01_project-manager.jpg) | ![](gdevelop/run-and-bow/02_scene-editor_objects.jpg) |
 | ![](gdevelop/run-and-bow/03_events_scene-start.jpg) | ![](gdevelop/run-and-bow_knight.png) |
 
-스프라이트 에셋: [`gdevelop/shootn-run-assets/`](gdevelop/shootn-run-assets/) (기사 idle, 코인, 사망 애니메이션, 타일)
+스프라이트 에셋: [`gdevelop/shootn-run-assets/`](gdevelop/shootn-run-assets/) (기사 idle·stagger, 코인, 사망 애니메이션, 타일)
 
 ### Tappy Plane — 2025.10.20
 
@@ -96,6 +96,21 @@ Python(일부 C++)으로 직접 풀어 본 코드입니다. 문제별 접근 방
 | 2022.09 | [물리엔진](https://playentry.org/project/63252bb5fac86700dad9c80b) | 36 |
 | 2025.04 | [[반전] 리버스 점프맵](https://playentry.org/project/67eceea36a4b1cedad6b3897) | 57 |
 | 2025.06 | [히트맨](https://playentry.org/project/6855623824840d105eb4357c) | 18 |
+
+### 작업 화면 캡처 (2022)
+
+2022년 1월 ~ 12월 엔트리 작품을 만들면서 녹화한 화면에서 뽑은 캡처입니다. 블록 코드 화면 23장, 전체 34장은 [`entry/captures/`](entry/captures/)에 있습니다.
+
+| | | |
+|:---:|:---:|:---:|
+| ![](entry/captures/2022-01-24_19-06-28_작품_만들기.jpg) | ![](entry/captures/2022-01-24_19-10-43_작품_만들기.jpg) | ![](entry/captures/2022-01-24_19-17-40_작품_만들기.jpg) |
+| ![](entry/captures/2022-01-24_19-29-40_작품_만들기.jpg) | ![](entry/captures/2022-01-24_19-33-55_작품_만들기.jpg) | ![](entry/captures/2022-01-25_09-43-40_작품_만들기.jpg) |
+| ![](entry/captures/2022-01-25_09-50-40_작품_만들기.jpg) | ![](entry/captures/2022-01-25_09-55-58_작품_만들기.jpg) | ![](entry/captures/2022-01-25_10-08-44_작품_만들기.jpg) |
+| ![](entry/captures/2022-01-25_10-50-14_작품_만들기.jpg) | ![](entry/captures/2022-01-25_16-15-04_작품_만들기.jpg) | ![](entry/captures/2022-01-28_17-52-49_작품_만들기.jpg) |
+| ![](entry/captures/2022-02-03_17-08-39_작품_만들기.jpg) | ![](entry/captures/2022-02-03_17-09-26_작품_만들기.jpg) | ![](entry/captures/2022-02-03_17-17-56_작품_만들기.jpg) |
+| ![](entry/captures/2022-03-12_18-30-30_새_탭.jpg) | ![](entry/captures/2022-03-12_6-40-28_새_탭.jpg) | ![](entry/captures/2022-06-09_21-09-18_작품_만들기.jpg) |
+| ![](entry/captures/2022-07-08_7-19-21_작품_만들기.jpg) | ![](entry/captures/2022-07-08_7-19-47_작품_만들기.jpg) | ![](entry/captures/2022-07-08_7-20-22_작품_만들기.jpg) |
+| ![](entry/captures/2022-12-19_20-02-28_작품_만들기.jpg) | ![](entry/captures/2022-12-21_07-11-23_타이포그래피.jpg) | |
 
 ![벽을타지마 배경](entry/벽을타지마_배경.png)
 
