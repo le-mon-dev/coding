@@ -1,0 +1,24 @@
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+# Unity (unity-mobile-game/)
+unity-mobile-game/[Ll]ibrary/
+unity-mobile-game/[Tt]emp/
+unity-mobile-game/[Oo]bj/
+unity-mobile-game/[Bb]uild/
+unity-mobile-game/[Bb]uilds/
+unity-mobile-game/[Ll]ogs/
+unity-mobile-game/[Uu]ser[Ss]ettings/
+unity-mobile-game/*.csproj
+unity-mobile-game/*.sln
+unity-mobile-game/*.suo
+unity-mobile-game/*.user
+unity-mobile-game/*.pidb
+unity-mobile-game/*.booproj
+unity-mobile-game/*.svd
+unity-mobile-game/*.pdb
+unity-mobile-game/*.mdb
