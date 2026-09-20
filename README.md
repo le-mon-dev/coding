@@ -41,11 +41,29 @@ SPIKE 앱의 블록 코딩으로 센서 값에 따라 주행을 제어합니다.
 
 ### 인게임 화면
 
-GDevelop 클라우드 편집기에서 미리보기로 실행한 화면입니다 (2026.09 캡처).
+GDevelop 클라우드 편집기에서 미리보기로 실행한 화면입니다 (2026.09 캡처). 파일은 [`gdevelop/ingame/`](gdevelop/ingame/)에 있습니다.
 
-| Run & Bow | Tappy Plane | IDK |
+**Run & Bow** — 메뉴 · 플레이(적 슬라임 등장) · 상점 · 게임 오버
+
+| 메뉴 | 플레이 1 | 플레이 2 |
 |:---:|:---:|:---:|
-| ![](gdevelop/ingame/run-and-bow.jpg) | ![](gdevelop/ingame/tappy-plane_title.png) | ![](gdevelop/ingame/idk.jpg) |
+| ![](gdevelop/ingame/run-and-bow_menu.png) | ![](gdevelop/ingame/run-and-bow_play-1.png) | ![](gdevelop/ingame/run-and-bow_play-2.png) |
+
+| 상점 (방어력·검·돈 업그레이드) | 게임 오버 |
+|:---:|:---:|
+| ![](gdevelop/ingame/run-and-bow_shop.png) | ![](gdevelop/ingame/run-and-bow_gameover.png) |
+
+**Tappy Plane** — 타이틀 · 시작 안내 · 플레이
+
+| 타이틀 | 시작 안내 (TAP) | 플레이 (점수 4) | 플레이 (점수 8) |
+|:---:|:---:|:---:|:---:|
+| ![](gdevelop/ingame/tappy-plane_title.png) | ![](gdevelop/ingame/tappy-plane_start.png) | ![](gdevelop/ingame/tappy-plane_play-1.png) | ![](gdevelop/ingame/tappy-plane_play-2.png) |
+
+**IDK** — 조이스틱으로 터렛 3기를 조준
+
+| 상단 조준 | 측면 조준 |
+|:---:|:---:|
+| ![](gdevelop/ingame/idk_play-1.png) | ![](gdevelop/ingame/idk_play-2.png) |
 
 ### Run & Bow (Shoot'n Run) — 2025.09.17
 
