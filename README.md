@@ -39,6 +39,14 @@ SPIKE 앱의 블록 코딩으로 센서 값에 따라 주행을 제어합니다.
 
 ![프로젝트 목록](gdevelop/project-list.jpg)
 
+### 인게임 화면
+
+GDevelop 클라우드 편집기에서 미리보기로 실행한 화면입니다 (2026.09 캡처).
+
+| Run & Bow | Tappy Plane | IDK |
+|:---:|:---:|:---:|
+| ![](gdevelop/ingame/run-and-bow.jpg) | ![](gdevelop/ingame/tappy-plane_title.png) | ![](gdevelop/ingame/idk.jpg) |
+
 ### Run & Bow (Shoot'n Run) — 2025.09.17
 
 레트로 감성의 횡스크롤 플랫포머. 화면 버튼으로 점프·공격·방어하며 점점 빨라지는 속도 속에서 적을 피합니다.
@@ -96,6 +104,18 @@ Python(일부 C++)으로 직접 풀어 본 코드입니다. 문제별 접근 방
 | 2022.09 | [물리엔진](https://playentry.org/project/63252bb5fac86700dad9c80b) | 36 |
 | 2025.04 | [[반전] 리버스 점프맵](https://playentry.org/project/67eceea36a4b1cedad6b3897) | 57 |
 | 2025.06 | [히트맨](https://playentry.org/project/6855623824840d105eb4357c) | 18 |
+
+### 인게임 화면
+
+대표 작품을 엔트리에서 실행한 화면입니다 (2026.09 캡처). 파일은 [`entry/ingame/`](entry/ingame/)에 있습니다.
+
+| 벽을 타지마! (2020.12) | 벽을타지마 2 (2020.12) | 11인 대합작 (2022.06) |
+|:---:|:---:|:---:|
+| ![](entry/ingame/2020-12_wall-1.png) | ![](entry/ingame/2020-12_wall-2.png) | ![](entry/ingame/2022-06_collab-11.png) |
+
+| 프사 움직이게 하는 법 (2022.08) | 물리엔진 (2022.09) | [반전] 리버스 점프맵 (2025.04) | 히트맨 (2025.06) |
+|:---:|:---:|:---:|:---:|
+| ![](entry/ingame/2022-08_profile-pic.png) | ![](entry/ingame/2022-09_physics-engine.png) | ![](entry/ingame/2025-04_reverse-jumpmap.png) | ![](entry/ingame/2025-06_hitman.png) |
 
 ### 작업 화면 캡처 (2022)
 
